@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: **Site Reliability Engineering, Cloud Computing, Multi-agent Intelligent Systems**
 
-- 📫 How to reach me: **saurabhdeochake.com**
+- 📫 How to reach me: <a href="https://saurabhdeochake.com" target="_blank" rel="noopener noreferrer">saurabhdeochake.com</a>
 
 - 📄 Know about my experiences: <a href="https://saurabhdeochake.com/cv" target="_blank" rel="noopener noreferrer">saurabhdeochake.com/cv</a>
 
