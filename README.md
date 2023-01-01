@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-deochake" alt="saurabh-deochake" /></a> </p>
 
-- 👨‍💻 All of my projects are available at: <a href="https://saurabhdeochake.com">saurabhdeochake.com</a>
+- 👨‍💻 All of my projects are available at: <a href="https://saurabhdeochake.com" target="_blank" rel="noopener noreferrer">saurabhdeochake.com</a>
 
-- 📝 I regularly write articles on: <a href="https://saurabhdeochake.com/blog">saurabhdeochake.com/blog</a>
+- 📝 I regularly write articles on: <a href="https://saurabhdeochake.com/blog" target="_blank" rel="noopener noreferrer">saurabhdeochake.com/blog</a>
 
 - 💬 Ask me about: **Site Reliability Engineering, Cloud Computing, Multi-agent Intelligent Systems**
 
 - 📫 How to reach me: **saurabhdeochake.com**
 
-- 📄 Know about my experiences: <a href="https://saurabhdeochake.com/cv">saurabhdeochake.com/cv</a>
+- 📄 Know about my experiences: <a href="https://saurabhdeochake.com/cv" target="_blank" rel="noopener noreferrer">saurabhdeochake.com/cv</a>
 
 - ⚡ Fun fact: **I have visited 42 states out of total 50 states of the USA**
 
