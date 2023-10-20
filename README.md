@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Saurabh Deochake.</h1>
+<h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Staff Cloud Infrastructure Engineer, SentinelOne</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh-deochake&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh-deochake" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-deochake" alt="saurabh-deochake" /></a> </p>
 
-- 👨‍💻 All of my projects are available at: <a href="https://saurabhdeochake.com" target="_blank" rel="noopener noreferrer">saurabhdeochake.com</a>
+- 🕒 Previosly Staff SRE, Tech Lead at <a href="https://github.com/twitter">Twitter</a>.
+
+-  👨‍💻 All of my projects are available at: <a href="https://saurabhdeochake.com" target="_blank" rel="noopener noreferrer">saurabhdeochake.com</a>
 
 - 📝 I regularly write articles on: <a href="https://saurabhdeochake.com/blog" target="_blank" rel="noopener noreferrer">saurabhdeochake.com/blog</a>
 
@@ -15,7 +17,7 @@
 
 - 📄 Know about my experiences: <a href="https://saurabhdeochake.com/cv" target="_blank" rel="noopener noreferrer">saurabhdeochake.com/cv</a>
 
-- ⚡ Fun fact: **I have visited 42 states out of total 50 states of the USA**
+- ⚡ Fun fact: **I have visited 44 states out of total 50 states of the USA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
